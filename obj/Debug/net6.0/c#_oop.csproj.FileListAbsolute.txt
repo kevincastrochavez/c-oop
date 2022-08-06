@@ -1,0 +1,15 @@
+/Users/kevincastro/Desktop/Programs/c#_oop/bin/Debug/net6.0/c#_oop
+/Users/kevincastro/Desktop/Programs/c#_oop/bin/Debug/net6.0/c#_oop.deps.json
+/Users/kevincastro/Desktop/Programs/c#_oop/bin/Debug/net6.0/c#_oop.runtimeconfig.json
+/Users/kevincastro/Desktop/Programs/c#_oop/bin/Debug/net6.0/c#_oop.dll
+/Users/kevincastro/Desktop/Programs/c#_oop/bin/Debug/net6.0/c#_oop.pdb
+/Users/kevincastro/Desktop/Programs/c#_oop/obj/Debug/net6.0/c#_oop.csproj.AssemblyReference.cache
+/Users/kevincastro/Desktop/Programs/c#_oop/obj/Debug/net6.0/c#_oop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevincastro/Desktop/Programs/c#_oop/obj/Debug/net6.0/c#_oop.AssemblyInfoInputs.cache
+/Users/kevincastro/Desktop/Programs/c#_oop/obj/Debug/net6.0/c#_oop.AssemblyInfo.cs
+/Users/kevincastro/Desktop/Programs/c#_oop/obj/Debug/net6.0/c#_oop.csproj.CoreCompileInputs.cache
+/Users/kevincastro/Desktop/Programs/c#_oop/obj/Debug/net6.0/c#_oop.dll
+/Users/kevincastro/Desktop/Programs/c#_oop/obj/Debug/net6.0/refint/c#_oop.dll
+/Users/kevincastro/Desktop/Programs/c#_oop/obj/Debug/net6.0/c#_oop.pdb
+/Users/kevincastro/Desktop/Programs/c#_oop/obj/Debug/net6.0/c#_oop.genruntimeconfig.cache
+/Users/kevincastro/Desktop/Programs/c#_oop/obj/Debug/net6.0/ref/c#_oop.dll
