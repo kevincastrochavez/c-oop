@@ -2,10 +2,10 @@
 {
     public static void Main(string[] args)
     {
-        Human kevin = new Human("Kevin", "Castro");
+        Human kevin = new Human("Kevin", "Castro", "brown", "25");
         kevin.IntroduceMyself();
 
-        Human citlalli = new Human("Citlalli", "Gonzalez");
+        Human citlalli = new Human("Citlalli", "Gonzalez", "brown", "26");
         citlalli.IntroduceMyself();
     }
 }
