@@ -7,5 +7,7 @@
 
         Human citlalli = new Human("Citlalli", "Gonzalez", "brown", "26");
         citlalli.IntroduceMyself();
+
+        Human basicHuman = new Human();
     }
 }

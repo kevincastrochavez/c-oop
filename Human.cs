@@ -5,6 +5,13 @@ public class Human
     public string eyeColor;
     public string age;
 
+    // Default constructor
+    public Human()
+    {
+        Console.WriteLine("Object created");
+    }
+
+    // Parameterized constructor
     public Human(string firstName, string lastName, string eyeColor, string age){
         this.firstName = firstName;
         this.lastName = lastName;
