@@ -11,14 +11,16 @@ public class Program
 
         // Human basicHuman = new Human();
 
-        Box box = new Box();
+        Box box = new Box(10, 5, -4);
         // Allowable when property is public
         // box.lenght = 3;
-        box.SetLength(10);
-        box.height = 4;
-        box.width = 5;
+        // box.SetLength(10);
+        // // box.height = 4;
+        // box.Height = -4;
+        // box.Width = 5;
 
         box.DisplayInfo();
         Console.WriteLine(box.GetVolume());
+        Console.WriteLine(box.Width);
     }
 }
