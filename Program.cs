@@ -22,5 +22,6 @@ public class Program
         box.DisplayInfo();
         Console.WriteLine(box.GetVolume());
         Console.WriteLine(box.Width);
+        Console.WriteLine($"Front surface is {box.FrontSurface}");
     }
 }

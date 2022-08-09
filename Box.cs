@@ -59,4 +59,12 @@ class Box
         this.volume = this.length * this.height * Width;
         Console.WriteLine($"Lenght is {this.length}, height is {height}, width is {Width}. So the volume is {volume}");
     }
+
+     public int FrontSurface
+    {
+        get
+        {
+            return height * this.length;
+        }
+    }
 }
